@@ -1,4 +1,3 @@
-Dockerfile
 
 # 1. Python tabanlı bir imaj seç
 FROM python:3.10-slim
